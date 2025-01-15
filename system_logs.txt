@@ -9,3 +9,76 @@ Timestamp,Resource,Event,Severity,Status,Action,User
 2025-01-04 15:32:55,Memory,Memory usage exceeded: 74.2%,High,Alert,Monitoring,system
 2025-01-04 15:32:56,Memory,Memory usage exceeded: 74.2%,High,Alert,Monitoring,system
 2025-01-04 15:32:57,Memory,Memory usage exceeded: 74.1%,High,Alert,Monitoring,system
+2025-01-07 18:57:41,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-07 18:57:43,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-07 18:57:44,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-07 18:57:46,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-07 18:57:46,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-07 18:57:47,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-07 18:57:49,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-07 18:57:50,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-07 18:57:52,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-07 18:57:53,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-07 18:57:55,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-07 18:57:56,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-07 18:57:58,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-15 14:06:23,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:06:27,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:06:31,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:06:35,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:06:39,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:06:43,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:06:47,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:06:51,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:06:55,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:06:59,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:07:03,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:07:07,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:07:11,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:07:15,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:07:19,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:07:23,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:07:36,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:07:39,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:07:43,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:07:47,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:07:51,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:07:55,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:07:59,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:08:03,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:08:07,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:08:11,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:08:15,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:08:19,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:08:23,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:08:27,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:09:27,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:09:31,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:09:35,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:09:39,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:09:43,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:09:47,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:09:51,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:09:54,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:09:58,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:10:02,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:10:06,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:10:10,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:10:14,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:19:02,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:19:06,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:19:10,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:19:14,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:19:18,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:19:22,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:19:26,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:19:30,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:19:42,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:19:46,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:19:50,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:19:54,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:19:58,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:20:03,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:20:07,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:20:11,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-15 14:20:15,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
