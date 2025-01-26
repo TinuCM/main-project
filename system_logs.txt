@@ -82,3 +82,1202 @@ Timestamp,Resource,Event,Severity,Status,Action,User
 2025-01-15 14:20:07,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
 2025-01-15 14:20:11,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
 2025-01-15 14:20:15,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:47:52,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:47:53,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:47:55,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:47:56,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:47:57,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:47:59,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:48:00,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:48:01,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:48:03,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:48:04,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:48:06,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:48:07,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:48:07,Process,Suspicious process detected: service.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:48:08,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:48:10,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:48:11,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:48:29,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:48:33,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:48:37,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:48:41,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:48:45,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:48:49,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:48:53,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:48:57,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:49:01,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:49:04,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:49:08,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:49:12,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:49:16,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:49:20,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:49:24,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:49:28,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:49:32,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:49:36,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:49:40,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:50:33,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:50:37,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:50:40,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:50:44,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:50:48,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:50:51,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:50:55,Memory,System Memory usage exceeded,High,Alert,System Monitoring,system
+2025-01-26 12:50:58,Process,Process dwm.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:50:58,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:50:59,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:50:59,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:50:59,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:50:59,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:50:59,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:50:59,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:50:59,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:50:59,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:50:59,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:02,Process,Process dwm.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:02,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:03,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:03,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:03,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:03,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:03,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:03,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:03,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:03,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:03,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:06,Process,Process dwm.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:06,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:06,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:06,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:06,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:06,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:06,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:06,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:07,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:07,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:07,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:10,Process,Process dwm.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:10,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:10,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:10,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:10,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:10,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:10,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:10,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:10,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:10,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:10,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:14,Process,Process dwm.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:14,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:14,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:14,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:14,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:14,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:14,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:14,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:14,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:14,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:14,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:17,Process,Process dwm.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:18,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:18,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:18,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:18,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:18,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:18,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:18,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:18,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:18,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:18,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:21,Process,Process dwm.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:21,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:22,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:22,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:22,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:22,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:22,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:22,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:22,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:22,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:22,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:25,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:25,Process,Process dwm.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:25,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:25,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:25,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:26,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:26,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:26,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:26,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:26,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:26,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:26,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:26,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:26,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:29,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:29,Process,Process dwm.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:29,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:29,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:29,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:29,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:29,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:29,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:29,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:29,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:29,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:29,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:29,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:30,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:33,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:33,Process,Process dwm.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:33,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:33,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:33,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:33,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:33,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:33,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:33,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:33,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:33,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:33,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:33,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:33,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:37,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:37,Process,Process dwm.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:37,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:37,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:37,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:37,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:37,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:37,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:37,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:37,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:37,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:37,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:37,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:51:37,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:17,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:18,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:18,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:18,Memory,Memory usage exceeded: 72.8%,High,Alert,Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:19,Memory,Memory usage exceeded: 73.0%,High,Alert,Monitoring,system
+2025-01-26 12:53:20,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:20,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:20,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:20,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:20,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:20,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:20,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:21,Memory,Memory usage exceeded: 72.9%,High,Alert,Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:22,Memory,Memory usage exceeded: 72.9%,High,Alert,Monitoring,system
+2025-01-26 12:53:23,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:23,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:23,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:23,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:24,Memory,Memory usage exceeded: 72.2%,High,Alert,Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:25,Memory,Memory usage exceeded: 72.2%,High,Alert,Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:27,Memory,Memory usage exceeded: 72.2%,High,Alert,Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:28,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:29,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:29,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:29,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:29,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:29,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:29,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:29,Memory,Memory usage exceeded: 72.1%,High,Alert,Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:30,Memory,Memory usage exceeded: 72.1%,High,Alert,Monitoring,system
+2025-01-26 12:53:31,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:31,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:31,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:31,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:31,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:31,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:31,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:32,Memory,Memory usage exceeded: 72.0%,High,Alert,Monitoring,system
+2025-01-26 12:53:34,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:34,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:34,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:35,Memory,Memory usage exceeded: 72.2%,High,Alert,Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:36,Memory,Memory usage exceeded: 72.2%,High,Alert,Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:38,Memory,Memory usage exceeded: 72.1%,High,Alert,Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:39,Memory,Memory usage exceeded: 72.1%,High,Alert,Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:41,Memory,Memory usage exceeded: 72.1%,High,Alert,Monitoring,system
+2025-01-26 12:53:42,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:42,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:42,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:42,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:42,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:42,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:42,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:42,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:42,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:42,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:42,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:42,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:42,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:43,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:43,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:43,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:43,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:43,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:43,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:43,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:43,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:43,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:43,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:43,Memory,Memory usage exceeded: 72.1%,High,Alert,Monitoring,system
+2025-01-26 12:53:53,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:53,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:53,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:53,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:53,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:53,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:53,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:53,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:53,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:53,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:53,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:53,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:54,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:54,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:54,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:54,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:54,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:54,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:54,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:54,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:54,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:54,Memory,Memory usage exceeded: 71.8%,High,Alert,Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:55,Memory,Memory usage exceeded: 72.0%,High,Alert,Monitoring,system
+2025-01-26 12:53:56,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:56,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:56,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:56,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:56,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:56,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:57,Memory,Memory usage exceeded: 71.8%,High,Alert,Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:53:58,Memory,Memory usage exceeded: 71.7%,High,Alert,Monitoring,system
+2025-01-26 12:53:59,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:53:59,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:00,Memory,Memory usage exceeded: 71.9%,High,Alert,Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:01,Memory,Memory usage exceeded: 71.9%,High,Alert,Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:03,Memory,Memory usage exceeded: 71.9%,High,Alert,Monitoring,system
+2025-01-26 12:54:04,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:54:04,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:04,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:04,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:04,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:04,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:54:04,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:04,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:04,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:04,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:04,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:04,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:04,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:04,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:04,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:05,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:05,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:05,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:05,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:05,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:05,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:05,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:05,Memory,Memory usage exceeded: 71.7%,High,Alert,Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:06,Memory,Memory usage exceeded: 71.7%,High,Alert,Monitoring,system
+2025-01-26 12:54:07,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:54:07,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:07,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:07,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:07,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:07,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:08,Memory,Memory usage exceeded: 71.6%,High,Alert,Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:09,Memory,Memory usage exceeded: 71.7%,High,Alert,Monitoring,system
+2025-01-26 12:54:10,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:54:10,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:10,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:10,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:10,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:11,Memory,Memory usage exceeded: 71.7%,High,Alert,Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:12,Memory,Memory usage exceeded: 71.6%,High,Alert,Monitoring,system
+2025-01-26 12:54:25,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:25,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:25,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:25,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:25,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:54:25,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:26,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:26,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:26,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:26,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:26,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:26,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:26,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:26,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:26,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:26,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:26,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:26,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:26,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:26,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:26,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:26,Memory,Memory usage exceeded: 71.6%,High,Alert,Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:27,Memory,Memory usage exceeded: 71.7%,High,Alert,Monitoring,system
+2025-01-26 12:54:28,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:54:28,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:28,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:29,Memory,Memory usage exceeded: 71.7%,High,Alert,Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:30,Memory,Memory usage exceeded: 71.7%,High,Alert,Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:32,Memory,Memory usage exceeded: 71.7%,High,Alert,Monitoring,system
+2025-01-26 12:54:33,Process,Suspicious process detected: system idle process,High,Alert,Process Monitoring,system
+2025-01-26 12:54:33,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:33,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:33,Process,Suspicious process detected: dwm.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:33,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:33,Process,Suspicious process detected: memcompression,High,Alert,Process Monitoring,system
+2025-01-26 12:54:33,Process,Suspicious process detected: msmpeng.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:33,Process,Suspicious process detected: omencommandcenterbackground.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:33,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:33,Process,Suspicious process detected: nvcontainer.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:33,Process,Suspicious process detected: nvidia overlay.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:33,Process,Suspicious process detected: searchhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:33,Process,Suspicious process detected: startmenuexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:33,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:33,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:33,Process,Suspicious process detected: amdrsserv.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:34,Process,Suspicious process detected: textinputhost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:34,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:34,Process,Suspicious process detected: powershell.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:34,Process,Suspicious process detected: phoneexperiencehost.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:34,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:34,Process,Suspicious process detected: code.exe,High,Alert,Process Monitoring,system
+2025-01-26 12:54:34,Memory,Memory usage exceeded: 71.7%,High,Alert,Monitoring,system
+2025-01-26 12:54:41,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:41,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:41,Process,Process dwm.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:41,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:41,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:42,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:42,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:42,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:42,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:42,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:42,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:42,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:42,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:42,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:42,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:42,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:42,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:42,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:42,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:42,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:42,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:45,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:45,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:45,Process,Process dwm.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:45,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:45,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:46,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:46,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:46,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:46,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:46,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:46,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:46,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:46,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:46,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:46,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:46,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:46,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:46,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:46,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:46,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:46,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:49,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:49,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:49,Process,Process dwm.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:49,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:49,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:49,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:50,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:50,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:50,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:50,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:50,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:50,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:50,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:50,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:50,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:50,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:50,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:50,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:50,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:50,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:50,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:53,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:53,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:53,Process,Process dwm.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:53,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:53,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:53,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:53,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:53,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:54,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:54,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:54,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:54,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:54,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:54,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:54,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:54,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:54,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:54,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:54,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:54,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:54,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:57,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:57,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:57,Process,Process dwm.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:57,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:57,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:57,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:57,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:57,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:57,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:57,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:57,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:57,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:58,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:58,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:58,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:58,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:58,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:58,Process,Process powershell.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:58,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:58,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:54:58,Process,Process code.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:05,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:06,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:06,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:06,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:06,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:06,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:06,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:06,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:06,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:06,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:09,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:09,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:10,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:10,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:10,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:10,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:10,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:10,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:10,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:10,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:14,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:14,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:14,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:14,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:14,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:14,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:14,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:14,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:14,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:14,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:18,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:18,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:18,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:18,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:18,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:18,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:18,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:18,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:18,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:18,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:22,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:22,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:22,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:22,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:22,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:22,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:22,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:22,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:22,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:22,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:26,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:26,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:26,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:26,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:26,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:26,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:26,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:26,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:26,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:26,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:30,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:30,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:30,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:30,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:30,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:30,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:30,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:30,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:30,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:30,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:34,Process,Process memcompression exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:34,Process,Process msmpeng.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:34,Process,Process omencommandcenterbackground.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:34,Process,Process nvcontainer.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:34,Process,Process nvidia overlay.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:34,Process,Process searchhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:34,Process,Process startmenuexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:34,Process,Process amdrsserv.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:34,Process,Process textinputhost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:34,Process,Process phoneexperiencehost.exe exceeded limits,High,Alert,Process Monitoring,system
+2025-01-26 12:56:43,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:56:44,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:56:45,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:56:48,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:56:49,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:56:50,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:56:51,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:56:53,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:56:54,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:56:55,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:56:56,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:56:57,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:56:58,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:56:59,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:57:00,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:57:01,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:57:03,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:57:04,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:57:05,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:57:06,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system
+2025-01-26 12:57:07,Disk (C:\),Disk (C:\) usage exceeded: 90.9%,High,Alert,Monitoring,system

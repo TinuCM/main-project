@@ -1,8 +1,8 @@
 chrome.exe
+code.exe
 python.exe
 explorer.exe
 discord.exe
 whatsapp.exe
+whatspp.exe
 powershell.exe
-dwm.exe
-code.exe
